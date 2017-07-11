@@ -1,0 +1,6 @@
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\bin\Debug\Tavisca2017handson.findsubstring.exe.config
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\bin\Debug\Tavisca2017handson.findsubstring.exe
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\bin\Debug\Tavisca2017handson.findsubstring.pdb
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\obj\Debug\Tavisca2017handson.findsubstring.csprojResolveAssemblyReference.cache
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\obj\Debug\Tavisca2017handson.findsubstring.exe
+c:\users\sakshis\documents\visual studio 2017\Projects\Tavisca2017handson.findsubstring\Tavisca2017handson.findsubstring\obj\Debug\Tavisca2017handson.findsubstring.pdb
